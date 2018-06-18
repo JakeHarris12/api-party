@@ -1,6 +1,7 @@
 .Pokemon {
     width: 80%;
     margin: 0 auto;
+    font-family: 'Press Start 2P', cursive;
   }
   
   .Pokemon .logo {

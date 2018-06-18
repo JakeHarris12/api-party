@@ -30,6 +30,8 @@ class PokemonCreature extends Component {
             <div className="PokemonCreature">
                 <h1>{pokemon.name}</h1>
                 <h2>ID: {pokemon.id}</h2>
+                <h2>Height: {pokemon.height}</h2>
+                <h2>Weight: {pokemon.weight}</h2>
             </div>
         )
     }
